@@ -1,0 +1,112 @@
+{
+  "large": [
+    {
+      "name": "赣南脐橙产区",
+      "pos": [25.85, 114.93],
+      "production": 120,
+      "details": {
+        "geo": "江西省南部，红壤丘陵，亚热带季风气候。",
+        "varieties": "纽荷尔、朋娜、纳维林娜",
+        "flavor": "果大形美，橙红鲜艳，肉质脆嫩。",
+        "maturity": "11月上旬",
+        "travel": ["中国赣南脐橙产业园", "三百山"],
+        "gi_link": "https://baike.baidu.com/item/赣南脐橙",
+        "sensory": { "sweet": 9, "acid": 2, "melting": 9, "aroma": 8, "peel": 7 }
+      }
+    },
+    {
+      "name": "湖北三峡脐橙产区",
+      "pos": [30.70, 111.28],
+      "production": 95,
+      "details": {
+        "geo": "以宜昌为核心，三峡库区坡地，四季有鲜橙。",
+        "varieties": "伦晚、纽荷尔、红肉",
+        "flavor": "四季鲜橙，汁多味浓，风味鲜活。",
+        "maturity": "全年滚动",
+        "travel": ["屈原故里", "三峡大坝"],
+        "gi_link": "https://baike.baidu.com/item/秭归脐橙",
+        "sensory": { "sweet": 8, "acid": 3, "melting": 8, "aroma": 9, "peel": 6 }
+      }
+    },
+    {
+      "name": "重庆长江脐橙产区",
+      "pos": [30.90, 108.40],
+      "production": 85,
+      "details": {
+        "geo": "长江沿岸河谷，喀斯特地貌，气候温和。",
+        "varieties": "奉节脐橙、纽荷尔",
+        "flavor": "脆嫩化渣，酸甜适口。",
+        "maturity": "12月中旬",
+        "travel": ["白帝城", "张飞庙"],
+        "gi_link": "https://baike.baidu.com/item/奉节脐橙",
+        "sensory": { "sweet": 8, "acid": 3, "melting": 9, "aroma": 8, "peel": 7 }
+      }
+    },
+    {
+      "name": "湖南湘南/湘西产区",
+      "pos": [26.50, 110.50],
+      "production": 80,
+      "details": {
+        "geo": "湘南丹霞地貌与湘西山区，气候湿润。",
+        "varieties": "新宁脐橙、冰糖橙",
+        "flavor": "色泽红艳，清甜爽口。",
+        "maturity": "11月中旬",
+        "travel": ["崀山", "凤凰古城"],
+        "gi_link": "https://baike.baidu.com/item/新宁脐橙",
+        "sensory": { "sweet": 8, "acid": 2, "melting": 8, "aroma": 7, "peel": 8 }
+      }
+    },
+    {
+      "name": "广西/四川新兴产区",
+      "pos": [27.00, 107.00],
+      "production": 70,
+      "details": {
+        "geo": "桂东北山地与川东紫色土区域。",
+        "varieties": "富川脐橙、金堂脐橙",
+        "flavor": "皮薄汁多，风味独特。",
+        "maturity": "11月下旬",
+        "travel": ["富川古明城", "五凤溪"],
+        "gi_link": "https://baike.baidu.com/item/富川脐橙",
+        "sensory": { "sweet": 8, "acid": 3, "melting": 8, "aroma": 8, "peel": 8 }
+      }
+    }
+  ],
+  "small": [
+    { "name": "章贡区", "pos": [25.85, 114.93], "production": 15, "details": { "geo": "赣州中心城区，赣江源头。", "varieties": "纽荷尔", "flavor": "甜度适中，风味浓郁。", "maturity": "11月上旬", "travel": ["赣州古城墙"], "gi_link": "https://baike.baidu.com/item/赣南脐橙", "sensory": { "sweet": 8, "acid": 2, "melting": 8, "aroma": 8, "peel": 7 } } },
+    { "name": "南康区", "pos": [25.66, 114.75], "production": 20, "details": { "geo": "丘陵平原交错，土壤肥沃。", "varieties": "纽荷尔", "flavor": "果大质优，口感脆爽。", "maturity": "11月中旬", "travel": ["南康家居小镇"], "gi_link": "https://baike.baidu.com/item/赣南脐橙", "sensory": { "sweet": 8, "acid": 3, "melting": 7, "aroma": 7, "peel": 8 } } },
+    { "name": "赣县区", "pos": [25.86, 115.01], "production": 25, "details": { "geo": "典型的红壤丘陵区。", "varieties": "纽荷尔", "flavor": "果肉细腻，汁多味甜。", "maturity": "11月中旬", "travel": ["客家文化城"], "gi_link": "https://baike.baidu.com/item/赣南脐橙", "sensory": { "sweet": 9, "acid": 2, "melting": 8, "aroma": 8, "peel": 7 } } },
+    { "name": "信丰县", "pos": [25.38, 114.88], "production": 55, "details": { "geo": "赣南脐橙发祥地，红壤丘陵。", "varieties": "纽荷尔、朋娜", "flavor": "果肉脆嫩，浓甜芳香。", "maturity": "11月上旬", "travel": ["中国赣南脐橙产业园"], "gi_link": "https://baike.baidu.com/item/赣南脐橙", "sensory": { "sweet": 9, "acid": 2, "melting": 9, "aroma": 9, "peel": 6 } } },
+    { "name": "大余县", "pos": [25.40, 114.36], "production": 18, "details": { "geo": "山地资源丰富，气候温和。", "varieties": "纽荷尔", "flavor": "果实硕大，色泽红润。", "maturity": "11月下旬", "travel": ["丫山风景区"], "gi_link": "https://baike.baidu.com/item/赣南脐橙" } },
+    { "name": "上犹县", "pos": [25.79, 114.54], "production": 12, "details": { "geo": "水资源丰富，气候湿润。", "varieties": "纽荷尔", "flavor": "清甜可口，汁水充足。", "maturity": "11月中旬", "travel": ["陡水湖"], "gi_link": "https://baike.baidu.com/item/赣南脐橙" } },
+    { "name": "崇义县", "pos": [25.68, 114.31], "production": 14, "details": { "geo": "森林覆盖率高，生态环境优越。", "varieties": "纽荷尔", "flavor": "果肉细嫩，清香诱人。", "maturity": "11月中旬", "travel": ["阳明山"], "gi_link": "https://baike.baidu.com/item/赣南脐橙" } },
+    { "name": "安远县", "pos": [25.13, 115.39], "production": 45, "details": { "geo": "东江源头，水质纯净。", "varieties": "纽荷尔", "flavor": "果形美观，香气浓郁。", "maturity": "11月中旬", "travel": ["三百山"], "gi_link": "https://baike.baidu.com/item/赣南脐橙" } },
+    { "name": "龙南市", "pos": [24.90, 114.79], "production": 22, "details": { "geo": "围屋之乡，气候温暖。", "varieties": "纽荷尔", "flavor": "甜度高，口感好。", "maturity": "11月上旬", "travel": ["关西新围"], "gi_link": "https://baike.baidu.com/item/赣南脐橙" } },
+    { "name": "定南县", "pos": [24.78, 115.03], "production": 16, "details": { "geo": "江右门户，红壤广布。", "varieties": "纽荷尔", "flavor": "色泽鲜艳，酸甜适口。", "maturity": "11月中旬", "travel": ["九曲度假村"], "gi_link": "https://baike.baidu.com/item/赣南脐橙" } },
+    { "name": "全南县", "pos": [24.74, 114.53], "production": 15, "details": { "geo": "粤港澳后花园，生态优美。", "varieties": "纽荷尔", "flavor": "果皮薄，汁水多。", "maturity": "11月中旬", "travel": ["雅溪古村"], "gi_link": "https://baike.baidu.com/item/赣南脐橙" } },
+    { "name": "宁都县", "pos": [26.47, 116.01], "production": 30, "details": { "geo": "赣青边陲，土地肥沃。", "varieties": "纽荷尔", "flavor": "果大肉厚，风味纯正。", "maturity": "11月中旬", "travel": ["翠微峰"], "gi_link": "https://baike.baidu.com/item/赣南脐橙" } },
+    { "name": "于都县", "pos": [25.95, 115.41], "production": 28, "details": { "geo": "长征出发地，红壤丘陵。", "varieties": "纽荷尔", "flavor": "甜度适中，化渣率高。", "maturity": "11月中旬", "travel": ["长征出发地纪念馆"], "gi_link": "https://baike.baidu.com/item/赣南脐橙" } },
+    { "name": "兴国县", "pos": [26.33, 115.35], "production": 20, "details": { "geo": "将军县，山地资源丰富。", "varieties": "纽荷尔", "flavor": "口感爽脆，香气扑鼻。", "maturity": "11月中旬", "travel": ["潋江书院"], "gi_link": "https://baike.baidu.com/item/赣南脐橙" } },
+    { "name": "会昌县", "pos": [25.60, 115.78], "production": 24, "details": { "geo": "风景独好，气候宜人。", "varieties": "纽荷尔", "flavor": "果实饱满，汁多味甜。", "maturity": "11月中旬", "travel": ["汉仙岩"], "gi_link": "https://baike.baidu.com/item/赣南脐橙" } },
+    { "name": "寻乌县", "pos": [24.95, 115.65], "production": 50, "details": { "geo": "赣江源头，昼夜温差大。", "varieties": "纽荷尔、长虹", "flavor": "甜度极高，果皮极薄。", "maturity": "11月中旬", "travel": ["青龙岩"], "gi_link": "https://baike.baidu.com/item/赣南脐橙" } },
+    { "name": "石城县", "pos": [26.32, 116.34], "production": 10, "details": { "geo": "莲乡石城，生态良好。", "varieties": "纽荷尔", "flavor": "清甜爽口，品质优良。", "maturity": "11月下旬", "travel": ["通天寨"], "gi_link": "https://baike.baidu.com/item/赣南脐橙" } },
+    { "name": "瑞金市", "pos": [25.88, 116.02], "production": 35, "details": { "geo": "红色故都，红壤丘陵。", "varieties": "纽荷尔", "flavor": "色泽红润，酸甜适度。", "maturity": "11月中旬", "travel": ["叶坪红色旅游区"], "gi_link": "https://baike.baidu.com/item/赣南脐橙" } },
+    { "name": "秭归县", "pos": [30.83, 110.97], "production": 52, "details": { "geo": "三峡库区核心，坡地种植。", "varieties": "伦晚、纽荷尔", "flavor": "四季鲜橙，口感鲜活。", "maturity": "全年滚动", "travel": ["屈原故里"], "gi_link": "https://baike.baidu.com/item/秭归脐橙", "sensory": { "sweet": 8, "acid": 3, "melting": 8, "aroma": 9, "peel": 6 } } },
+    { "name": "兴山县", "pos": [31.22, 110.75], "production": 15, "details": { "geo": "宜昌三峡库区，山地气候。", "varieties": "纽荷尔", "flavor": "果肉脆嫩，汁多味甜。", "maturity": "11月下旬", "travel": ["昭君故里"], "gi_link": "https://baike.baidu.com/item/秭归脐橙", "sensory": { "sweet": 8, "acid": 3, "melting": 8, "aroma": 8, "peel": 7 } } },
+    { "name": "夷陵区", "pos": [30.77, 111.33], "production": 20, "details": { "geo": "宜昌市郊，长江北岸。", "varieties": "纽荷尔", "flavor": "色泽鲜艳，口感上乘。", "maturity": "11月中旬", "travel": ["三峡人家"], "gi_link": "https://baike.baidu.com/item/秭归脐橙", "sensory": { "sweet": 8, "acid": 3, "melting": 8, "aroma": 8, "peel": 7 } } },
+    { "name": "宜都市", "pos": [30.38, 111.45], "production": 12, "details": { "geo": "两江交汇，水利丰富。", "varieties": "纽荷尔", "flavor": "果大皮薄，香气浓郁。", "maturity": "11月中旬", "travel": ["三游洞"], "gi_link": "https://baike.baidu.com/item/秭归脐橙" } },
+    { "name": "当阳市", "pos": [30.82, 111.79], "production": 10, "details": { "geo": "鄂西山地向江汉平原过渡带。", "varieties": "纽荷尔", "flavor": "甜酸适口，风味纯正。", "maturity": "11月下旬", "travel": ["玉泉寺"], "gi_link": "https://baike.baidu.com/item/秭归脐橙" } },
+    { "name": "奉节县", "pos": [31.02, 109.46], "production": 48, "details": { "geo": "三峡库区，喀斯特地貌。", "varieties": "凤园72-1", "flavor": "脆嫩化渣，果皮极薄。", "maturity": "12月中旬", "travel": ["白帝城"], "gi_link": "https://baike.baidu.com/item/奉节脐橙", "sensory": { "sweet": 8, "acid": 3, "melting": 9, "aroma": 8, "peel": 7 } } },
+    { "name": "云阳县", "pos": [30.93, 108.70], "production": 30, "details": { "geo": "长江河谷，温差大。", "varieties": "纽荷尔", "flavor": "汁多味浓，甜度高。", "maturity": "12月上旬", "travel": ["张飞庙"], "gi_link": "https://baike.baidu.com/item/云阳脐橙", "sensory": { "sweet": 9, "acid": 2, "melting": 8, "aroma": 8, "peel": 7 } } },
+    { "name": "巫山县", "pos": [31.07, 109.88], "production": 25, "details": { "geo": "三峡核心，神女峰下。", "varieties": "纽荷尔", "flavor": "果肉细腻，品质极佳。", "maturity": "12月中旬", "travel": ["小三峡"], "gi_link": "https://baike.baidu.com/item/巫山脐橙" } },
+    { "name": "忠县", "pos": [30.30, 108.03], "production": 22, "details": { "geo": "长江中游，丘陵地带。", "varieties": "纽荷尔", "flavor": "色泽金黄，口感清甜。", "maturity": "12月上旬", "travel": ["石宝寨"], "gi_link": "https://baike.baidu.com/item/忠县脐橙" } },
+    { "name": "万州区", "pos": [30.81, 108.38], "production": 20, "details": { "geo": "渝东门户，长江两岸。", "varieties": "纽荷尔", "flavor": "果大质优，风味独特。", "maturity": "12月中旬", "travel": ["万州大瀑布"], "gi_link": "https://baike.baidu.com/item/万州脐橙" } },
+    { "name": "新宁县", "pos": [26.43, 110.85], "production": 38, "details": { "geo": "崀山脚下，丹霞地貌。", "varieties": "新宁脐橙", "flavor": "色泽红艳，酸甜适度。", "maturity": "11月中旬", "travel": ["崀山"], "gi_link": "https://baike.baidu.com/item/新宁脐橙" } },
+    { "name": "道县", "pos": [25.52, 111.60], "production": 32, "details": { "geo": "湘南丘陵，气候温和。", "varieties": "道州脐橙", "flavor": "果大皮薄，清甜化渣。", "maturity": "11月中旬", "travel": ["濂溪故里"], "gi_link": "https://baike.baidu.com/item/道州脐橙" } },
+    { "name": "江永县", "pos": [25.27, 111.34], "production": 25, "details": { "geo": "女书之乡，生态环境优。", "varieties": "江永脐橙", "flavor": "香气浓郁，口感细腻。", "maturity": "11月下旬", "travel": ["女书岛"], "gi_link": "https://baike.baidu.com/item/江永脐橙" } },
+    { "name": "麻阳苗族自治县", "pos": [27.72, 109.80], "production": 40, "details": { "geo": "长寿之乡，紫色土。", "varieties": "冰糖橙、纽荷尔", "flavor": "极高甜度，清脆爽口。", "maturity": "11月下旬", "travel": ["麻阳长寿园"], "gi_link": "https://baike.baidu.com/item/麻阳冰糖橙" } },
+    { "name": "富川瑶族自治县", "pos": [24.82, 111.28], "production": 45, "details": { "geo": "桂东北山地，光照充足。", "varieties": "富川脐橙", "flavor": "果大皮薄，肉质脆嫩。", "maturity": "11月中旬", "travel": ["富川古明城"], "gi_link": "https://baike.baidu.com/item/富川脐橙" } },
+    { "name": "金堂县", "pos": [30.86, 104.41], "production": 20, "details": { "geo": "成都平原东缘，气候湿润。", "varieties": "金堂脐橙", "flavor": "甜酸适口，风味独特。", "maturity": "12月上旬", "travel": ["五凤溪"], "gi_link": "https://baike.baidu.com/item/金堂脐橙" } },
+    { "name": "邻水县", "pos": [30.33, 106.93], "production": 18, "details": { "geo": "川东门户，华蓥山下。", "varieties": "邻水脐橙", "flavor": "色泽鲜艳，汁多味甜。", "maturity": "12月中旬", "travel": ["天意谷"], "gi_link": "https://baike.baidu.com/item/邻水脐橙" } },
+    { "name": "开江县", "pos": [31.08, 107.88], "production": 15, "details": { "geo": "川东北，山地丘陵。", "varieties": "开江脐橙", "flavor": "肉质脆嫩，风味浓郁。", "maturity": "12月下旬", "travel": ["金山寺"], "gi_link": "https://baike.baidu.com/item/开江脐橙" } }
+  ]
+}

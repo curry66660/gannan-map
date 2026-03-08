@@ -1,0 +1,21 @@
+{
+  "name": "中国脐橙产业地图",
+  "short_name": "脐橙地图",
+  "description": "中国脐橙产业地理信息与百科地图",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#f97316",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/orange/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/seed/orange/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
